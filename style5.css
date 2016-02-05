@@ -1,0 +1,125 @@
+body {
+  width:auto;
+  border: 2px solid gray;
+}
+header {
+  background-image: url('./clouds_over_the_Atlantic_ocean.jpg');
+  background-size: cover;
+  background-position-y: -129px;
+  height: 300px;
+}
+h5 {
+  display: inline-block;
+}
+#title {
+  font-family: fantasy;
+  font-size: 44px;
+  position: absolute;
+  left: 165px;
+  top:19%;
+}
+div.overlay {
+  background-color: blue;
+  height: 300px;
+  opacity: 0.2
+}
+h3 {
+  margin-left: 136px;
+}
+.header-text h5 {
+  display: inline-block;
+}
+.search {
+  position:absolute;
+  top: 0%;
+  left: 75%;
+}
+.about {
+  position: absolute;
+  top: 0%;
+  left: 85%;
+}
+.blog{
+  position: absolute;
+  top: 0%;
+  left: 10%;
+}
+.search img {
+  height:1px;
+  width: 1px;
+}
+section.heading {
+  display: block;
+  width: 100%;
+  margin:40px;
+}
+.headline {
+  display:inline-block;
+  width:58%;
+  vertical-align: top;
+  margin-right: 20px;
+}
+.headline2 {
+  display: inline-block;
+  width: 27%;
+  vertical-align: top;
+}
+.2nd-heading {
+  vertical-align: top;
+  display: inline;
+  margin: 265px;
+  font-size: 50px;
+}
+img {
+  display: inline-block;
+  height: 183px;
+  width: 200px;
+  margin: -1%;
+}
+.pictures {
+  font-size: 50px;
+  margin-left:26%;
+}
+.major {
+  font-size: 50px;
+  font-family:sans-serif;
+}
+ {
+  display: inline-block;
+}
+.copy {
+  display: inline-block;
+  font-size: 12px;
+}
+.nav {
+  display: inline-block;
+  font-size: 10px;
+  margin-left: 50%;
+  position: absolute;
+  top: 184%;
+}
+ .item {
+  display: inline-block;
+  border-left:1px solid gray;
+}
+h1 img {
+  border-radius: 100%;
+}
+.minorp {
+  font-size:10px;
+}
+.bottom {
+  background-color: darkblue;
+  color:white;
+}
+.cool {
+  font-size: 25px;
+  font-family: serif;
+  margin-left: 30%;
+}
+.coolinfo {
+  font-size: 9px;
+  font-family: monospace;
+  width: 39%;
+  margin-left: 30%;
+}
